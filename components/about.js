@@ -23,8 +23,8 @@ export default function About() {
                 About Me
             </div>
             <p className="leading-relaxed text-gray-500 dark:text-gray-300">
-                Hello, my name is Luqman Abdur Rohim. I am 22 years old from Indonesia. I am studying Informatics Engineering at University of Al Azhar Indonesia. I like programming so much. I am a person who really likes new challenges. I am a meticulous person, resilient person and i also learn from experience professionals in my field. Worked with frameworks like Codeigniter and ReactJs it does feel amazing to see myself improving. Hoping to continue to improve and be better than now.
-            </p>
-        </div>
+                Hello! My name is Luqman Abdur Rohim, a 25-year-old Informatics Engineering graduate from Universitas Al Azhar Indonesia, class of 2023. I have a deep passion for programming and enjoy exploring new challenges that push me to grow. I consider myself a meticulous and resilient individual who learns continuously—especially from experienced professionals in the field. I have worked with frameworks such as CodeIgniter and ReactJS, and it's truly rewarding to see my progress over time. Now, at 25 years old, I am eager to continue improving and contribute to the tech industry.
+                        </p>
+                        </div>
     );
 }
